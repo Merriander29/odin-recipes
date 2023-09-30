@@ -1,0 +1,28 @@
+h1.main {
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+a {
+    color: blue;
+}
+.subG {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.subJ {
+    color: green;
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-family: helvetica;
+}
+
+.subL {
+    color: orangered;
+    background-color: grey;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
